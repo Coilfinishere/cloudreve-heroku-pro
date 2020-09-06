@@ -7,7 +7,3 @@
 ## 账户信息-请及时修改
 用户名：admin@cloudreve.org
 密码：lXEoqPM3
-<<<<<<< HEAD
-
-=======
->>>>>>> f5077b2ea7ea45470e18b3dc89903cb65853ea22
