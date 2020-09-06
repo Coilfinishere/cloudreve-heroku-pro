@@ -1,0 +1,8 @@
+{
+    "name": "Cloudreve-Heroku-pro",
+    "description": "Cloureve-pro on Heroku with Redis Warn:Domain authorise is on, please use free edition",
+    "repository": "https://github.com/useblue/Cloudreve-Heroku",
+    "website": "https://ifibe.com/",
+    "keywords": ["cloudreve", "redis", "netdisc", "share"],
+    "stack": "container"
+ }
